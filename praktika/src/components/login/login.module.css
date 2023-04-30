@@ -1,0 +1,13 @@
+
+.login_conteiner{
+    margin: 20% 37%
+}
+.button{
+    background-color: rgb(212, 212, 212);
+    padding: 10px;
+    height: 120px;
+    width: 350px;
+    text-decoration: none;
+    color: #444343;
+    font-size: 25px;
+}

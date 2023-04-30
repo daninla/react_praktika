@@ -1,0 +1,61 @@
+
+.korz{
+    height: 1000px;
+    right: 0;
+    width: 400px;
+   background-color: rgb(209, 209, 209);
+margin-right: 0px;
+z-index: 4;
+position: absolute;
+display: block;
+top: 0;
+}
+
+.korz_title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.krestik{
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+h1{
+    margin-left: 20px;
+}
+.cartitems{
+   width: 100%;
+}
+.item h2{ 
+  cursor: pointer;
+}
+.item{
+   margin-left: 30px;
+   margin-right: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 3px bisque solid;
+}
+
+.item_block{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+ 
+    margin-top: 0;
+}
+
+.title_block{
+    display: flex;
+    justify-content: space-between;
+}
+.nazva_item{
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 20px;
+}
+.butto{
+    margin-right: 100px;
+}

@@ -1,0 +1,22 @@
+.item img{
+    width: 200px;
+    height: 200px;
+}
+.item{
+    margin-left: 30px;
+    min-height: 250px;
+    max-width: 400px;
+    margin-left: 80px;
+   
+}
+.butto{
+    background-color: firebrick;
+    color: rgb(255, 255, 255);
+    height: 40px;
+    margin-left: 30px;
+}
+.title_btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

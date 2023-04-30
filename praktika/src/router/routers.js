@@ -1,0 +1,2 @@
+export const LOGIN_ROUTE = "LOGIN_ROUTE"
+export const CONTENT_ROUTE = "CONTENT_ROUTE"

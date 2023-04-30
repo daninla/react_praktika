@@ -1,0 +1,34 @@
+.komentBlock{
+    margin-top: 50px;
+   min-height: 250px;
+   background-color: khaki;
+   position: relative;
+}
+h2{
+    text-align: center;
+}
+textarea{
+    height: 100px;
+    width: 600px;
+}
+
+button{
+   background-color: rgb(91, 219, 59);
+   color: rgb(0, 0, 0);
+   margin-left: 20px;
+   height: 50px;
+}
+
+.pole_koment{
+    display: flex;
+ margin-left: 880px;
+position: absolute;
+top: 50px;
+}
+.komenti{
+   display: block;
+}
+button{
+    border-radius: 40px;
+  }
+  

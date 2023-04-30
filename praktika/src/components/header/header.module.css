@@ -1,0 +1,38 @@
+.header_title{
+    color: red;
+    }
+    
+    header{
+        align-items: center;
+        margin: 0 auto;
+        width: 1200px;
+     display: flex;
+     justify-content: space-between;
+     border-bottom: 1px solid black;
+    }
+    .icons:first-child{
+    padding: 10px 0;
+    display: flex;
+    margin-right: 50px;
+    align-items: center;
+    }
+
+    .icon img{
+     margin: 0 20px;
+     width: 25px;
+     height: 25px;
+     cursor: pointer;
+    }
+    
+    
+    .goOut{
+        border: 1px blue solid;
+        padding: 6px;
+        background-color: lightblue;
+        margin-left: 6px;
+        
+    }
+    button{
+        border-radius: 4  0px;
+      }
+      

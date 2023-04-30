@@ -1,0 +1,38 @@
+.baza{
+    width: 1200px;
+    margin: 0 auto;
+    }
+    .main_titleBlock{
+     display: flex;
+     justify-content: space-around;
+    justify-content: space-between;
+    padding: 0 50px;
+    margin-top: 20px;
+    }
+    
+    input{
+        margin-top: 15px;
+        height: 30px;
+    }
+    .main_itemsBlock{
+        flex-wrap: wrap;
+        display: flex;
+        margin-left: 20px;
+    }
+
+
+    .pagination_button{
+       margin-left: 40%;
+    }
+
+    .pagination_button button{
+        background-color: rgb(134, 196, 255);
+        color: rgb(0, 0, 0);
+     }
+
+     .true{
+       color: #cc1c1c;
+     }
+     .false{
+        color: #000000;
+     }
